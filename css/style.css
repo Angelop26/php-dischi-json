@@ -1,0 +1,12 @@
+header{
+    background-color: navy;
+    height: 80px;
+}
+main{
+    background-color: #1d2d3c;
+    overflow-y: auto;
+    height: calc(100% - 80px);
+}
+.card{
+    background-color: #112030;
+}
